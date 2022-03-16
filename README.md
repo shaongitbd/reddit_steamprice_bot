@@ -5,3 +5,16 @@ change line 62,63 with your reddit username and password and change 64, 65 with 
 Now go to alphavantage.co and singup for an api. We will use this api to convert currencies to real time.
 
 Enter the api on line 43
+
+Install requirements
+
+```python
+pip install -r requirements.txt
+```
+
+To run the file 
+
+```python
+python igamedeals.py
+```
+
