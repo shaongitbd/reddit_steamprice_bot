@@ -1,0 +1,4 @@
+praw
+requests
+currency_converter
+bs4
